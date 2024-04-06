@@ -6,7 +6,7 @@ Control a player in a 3D environment.
     : macOS 14.4.1
     : Unity 2023.2.7f1
 
-![screen shot](Var/Images/screenshot.png)
+<img src="Var/Images/Screenshot.png" alt="Screenshot">
 
 ## Key features
 
