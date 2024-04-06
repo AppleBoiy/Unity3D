@@ -1,14 +1,18 @@
 # unity3d: Player Control
 
-Control a player in a 3D environment.
+Control a player in a 3D environment. 
 
+    Tested on
+    : macOS 14.4.1
+    : Unity 2023.2.7f1
 
 ![screen shot](Var/Images/screenshot.png)
 
 ## Key features
 
-- Player movement using keyboard input.
-- Player rotation using mouse input.
+- [ ] Player movement using keyboard input.
+- [ ] Player rotation using mouse input.
+- [ ] Track player position and mini map.
 
 ## Key bindings
 
@@ -72,9 +76,3 @@ Control a player in a 3D environment.
 </tr>
 </tbody>
 </table>
-
-# Tested on
-
-- macOS 14.4.1
-- Unity 2023.2.7f1
-
