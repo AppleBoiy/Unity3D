@@ -10,7 +10,18 @@ Control a player in a 3D environment.
 
 ## Key features
 
-- [ ] Player movement using keyboard input.
+- [ ] Camera follow player.
+  - [X] Camera follow player.
+  - [X] Camera rotation using mouse input.
+  - [ ] Camera zoom in/out.
+- [ ] Player basic movement.
+  - [ ] Walking
+  - [ ] Sprinting
+  - [ ] Jumping
+  - [ ] Dash
+  - [ ] Wall running
+  - [ ] Sliding
+  - [ ] Grappling
 - [ ] Player rotation using mouse input.
 - [ ] Track player position and mini map.
 
@@ -76,3 +87,7 @@ Control a player in a 3D environment.
 </tr>
 </tbody>
 </table>
+
+## References
+
+- [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
