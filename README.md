@@ -1,4 +1,4 @@
-# unity3d: Player Control
+# unity3d: Basic Player Controller - 1st person
 
 Control a player in a 3D environment. 
 
@@ -7,6 +7,23 @@ Control a player in a 3D environment.
     : Unity 2023.2.7f1
 
 <img src="Var/Images/Screenshot.png" alt="Screenshot">
+
+## Key features
+
+- Camere follow player
+
+<details>
+<summary>On going</summary>
+
+- [ ] Camera follow player.
+    - [X] Camera follow player.
+    - [X] Camera rotation using mouse input.
+    - [ ] Camera zoom in/out.
+- [x] Player basic movement.
+- [x] Player rotation using mouse input.
+- [ ] Track player position and mini map.
+
+</details>
 
 ## Key bindings
 
@@ -70,22 +87,6 @@ Control a player in a 3D environment.
 </tr>
 </tbody>
 </table>
-
-
-## Key features
-
-<details>
-<summary>Ours features</summary>
-
-- [ ] Camera follow player.
-    - [X] Camera follow player.
-    - [X] Camera rotation using mouse input.
-    - [ ] Camera zoom in/out.
-- [x] Player basic movement.
-- [x] Player rotation using mouse input.
-- [ ] Track player position and mini map.
-
-</details>
 
 ## References
 
