@@ -33,7 +33,7 @@ public class Player : MonoBehaviour
         _xRotation = Mathf.Clamp(_xRotation, -90f, 90f);
         
         // Rotate camera
-        transform.localRotation = Quaternion.Euler(_xRotation, _yRotation, 0);
+        transform.localRotation = Quaternion.Euler(_xRotation, 0, 0);
         orientation.localRotation = Quaternion.Euler(0, _yRotation, 0);
     }
 }

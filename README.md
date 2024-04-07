@@ -8,23 +8,6 @@ Control a player in a 3D environment.
 
 <img src="Var/Images/Screenshot.png" alt="Screenshot">
 
-## Key features
-
-- [ ] Camera follow player.
-  - [X] Camera follow player.
-  - [X] Camera rotation using mouse input.
-  - [ ] Camera zoom in/out.
-- [ ] Player basic movement.
-  - [ ] Walking
-  - [ ] Sprinting
-  - [ ] Jumping
-  - [ ] Dash
-  - [ ] Wall running
-  - [ ] Sliding
-  - [ ] Grappling
-- [ ] Player rotation using mouse input.
-- [ ] Track player position and mini map.
-
 ## Key bindings
 
 <table>
@@ -88,6 +71,23 @@ Control a player in a 3D environment.
 </tbody>
 </table>
 
+
+## Key features
+
+<details>
+<summary>Ours features</summary>
+
+- [ ] Camera follow player.
+    - [X] Camera follow player.
+    - [X] Camera rotation using mouse input.
+    - [ ] Camera zoom in/out.
+- [x] Player basic movement.
+- [x] Player rotation using mouse input.
+- [ ] Track player position and mini map.
+
+</details>
+
 ## References
 
 - [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
+- [StarterAssets - FirstPerson](https://assetstore.unity.com/packages/essentials/starterassets-firstperson-updates-in-new-charactercontroller-pac-196525)
