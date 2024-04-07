@@ -77,9 +77,6 @@ Control a player in a 3D environment.
 <tbody>
 <tr>
 
-<td><kbd>Esc</kbd></td>
-<td>Open menu</td>
-
 </tr>
 </tbody>
 </table>
